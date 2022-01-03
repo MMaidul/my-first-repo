@@ -8,3 +8,23 @@
   background-color: red;
   padding: 20px;
 }
+
+.testimonial-section {
+  padding-top: 100px;
+}
+
+.testimonial {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.testimonial__single {
+  width: 23%;
+  background-color: red;
+}
+.testimonial__single img {
+  width: 100%;
+}
+.testimonial__content {
+  padding: 20px;
+}
